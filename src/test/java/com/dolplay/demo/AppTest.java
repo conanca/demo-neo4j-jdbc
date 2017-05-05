@@ -1,4 +1,4 @@
-package com.xinhuanet.demo;
+package com.dolplay.demo;
 
 import com.alibaba.fastjson.JSON;
 import org.junit.BeforeClass;
